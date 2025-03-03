@@ -3,8 +3,8 @@ import json
 import datetime
 
 # 🔹 設定（自分の情報を入れる）
-STEAM_API_KEY = "YOUR_STEAM_API_KEY"  # ここにSteam APIキーを入れる
-DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"  # DiscordのWebhook URLを入れる
+STEAM_API_KEY = "8D4C2C137F9F9E1421724209402C7451"  # ここにSteam APIキーを入れる
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1345189719243231313/V2CjGmcGEiepaS1ruIcrpxq6XyJG0n1hlX1YkrOrMvZb8dWvONnmEpF4sO60bAT-c6tg"  # DiscordのWebhook URLを入れる
 
 # 🔹 1ヶ月以内にリリースされたゲームを取得する関数
 def get_new_released_games():
