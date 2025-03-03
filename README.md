@@ -1,1 +1,1 @@
-# New-game-ranking
+# main.py
